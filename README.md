@@ -1,2 +1,2 @@
 # CommandLine-Interpreter
-Command Line interpreter for windows OS using java
+Simulation for Command Line interpreter for windows OS using java
