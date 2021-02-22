@@ -1,0 +1,117 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"da5e7cd7-2290-49c6-9254-97e24acccb36\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/aws.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/CLI_V1/Main.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/CLI_V1/Main.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/CLI_V1/Parser.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/CLI_V1/Parser.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/CLI_V1/Terminal.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/CLI_V1/Terminal.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Main.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Parser.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Parser.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Terminal.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Terminal.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1k8QyYvmsm82WoFLpiNZ8TOy6G8\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main\" />\r\n      <module name=\"CLI_V1\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"file://$PROJECT_DIR$\" />\r\n      <RunnerSettings RunnerId=\"Run\" />\r\n      <ConfigurationWrapper RunnerId=\"Run\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"da5e7cd7-2290-49c6-9254-97e24acccb36\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605079993710</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605079993710</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state width=\"1342\" height=\"195\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1605108989972\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"1342\" height=\"195\" key=\"GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824\" timestamp=\"1605108989972\" />\r\n    <state width=\"1342\" height=\"195\" key=\"GridCell.Tab.0.center\" timestamp=\"1605108989971\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"1342\" height=\"195\" key=\"GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824\" timestamp=\"1605108989971\" />\r\n    <state width=\"1342\" height=\"195\" key=\"GridCell.Tab.0.left\" timestamp=\"1605108989971\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"1342\" height=\"195\" key=\"GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824\" timestamp=\"1605108989971\" />\r\n    <state width=\"1342\" height=\"195\" key=\"GridCell.Tab.0.right\" timestamp=\"1605108989972\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"1342\" height=\"195\" key=\"GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824\" timestamp=\"1605108989972\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision c2312ef99d972ffe9501baf89f6de882e8f4d8d5)
++++ .idea/workspace.xml	(date 1605113032363)
+@@ -1,14 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="da5e7cd7-2290-49c6-9254-97e24acccb36" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
++    <list default="true" id="da5e7cd7-2290-49c6-9254-97e24acccb36" name="Default Changelist" comment="    InputSplit">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/CLI_V1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_V1/Main.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/CLI_V1/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_V1/Parser.class" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/CLI_V1/Terminal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_V1/Terminal.class" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/Terminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Terminal.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -24,6 +21,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PREVIOUS_COMMIT_AUTHORS">
++      <list>
++        <option value="https://github.com/Abdelrhman-ammar/CommandLineInterface" />
++      </list>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="1k8QyYvmsm82WoFLpiNZ8TOy6G8" />
+@@ -66,23 +68,31 @@
+       <updated>1605079993710</updated>
+     </task>
+     <servers />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="InputSplit" />
++    <option name="LAST_COMMIT_MESSAGE" value="InputSplit" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1605108989972">
++    <state x="380" y="0" key="CommitChangelistDialog2" timestamp="1605112559792">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605108989972" />
+-    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1605108989971">
++    <state x="380" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605112559792" />
++    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1605112577284">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605108989971" />
+-    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1605108989971">
++    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605112577284" />
++    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1605112577284">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605108989971" />
+-    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1605108989972">
++    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605112577284" />
++    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1605112577283">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605108989972" />
++    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605112577283" />
++    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1605112577284">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605112577284" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Main {\r\n\r\n    public static void main(String[] args) {\r\n        Terminal.display();\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Main.java	(revision c2312ef99d972ffe9501baf89f6de882e8f4d8d5)
++++ src/Main.java	(date 1605106778518)
+@@ -1,6 +1,7 @@
+ public class Main {
+ 
+     public static void main(String[] args) {
+-        Terminal.display();
++        Parser T = new Parser();
++        T.SplitInput();
+     }
+ }
+Index: src/Terminal.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Terminal {\r\n    public static void display(){\r\n        System.out.println(\"hello from terminal\");\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Terminal.java	(revision c2312ef99d972ffe9501baf89f6de882e8f4d8d5)
++++ src/Terminal.java	(date 1605100746922)
+@@ -1,5 +1,9 @@
+ public class Terminal {
+-    public static void display(){
+-        System.out.println("hello from terminal");
++    public static String workDir;
++    public Terminal(){
++        workDir = getWorkDirectory();
++    }
++    public static String getWorkDirectory(){
++        return System.getProperty("user.dir");
+     }
+ }

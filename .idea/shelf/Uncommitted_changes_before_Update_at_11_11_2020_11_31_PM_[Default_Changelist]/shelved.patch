@@ -1,0 +1,96 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"da5e7cd7-2290-49c6-9254-97e24acccb36\" name=\"Default Changelist\" comment=\"    InputSplit\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/CLI_V1/Main.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/CLI_V1/Main.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/CLI_V1/Parser.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/CLI_V1/Parser.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/CLI_V1/Terminal.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/CLI_V1/Terminal.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Main.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/Parser.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Parser.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1k8QyYvmsm82WoFLpiNZ8TOy6G8\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main\" />\r\n      <module name=\"CLI_V1\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"file://$PROJECT_DIR$\" />\r\n      <RunnerSettings RunnerId=\"Run\" />\r\n      <ConfigurationWrapper RunnerId=\"Run\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"da5e7cd7-2290-49c6-9254-97e24acccb36\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1605079993710</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1605079993710</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"    InputSplit\">\r\n      <created>1605113441745</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1605113441769</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"132\" y=\"54\" key=\"DiffContextDialog\" timestamp=\"1605113736539\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"132\" y=\"54\" key=\"DiffContextDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1605113736539\" />\r\n    <state width=\"1493\" height=\"666\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1605129959272\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"1493\" height=\"666\" key=\"GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824\" timestamp=\"1605129959272\" />\r\n    <state width=\"1493\" height=\"213\" key=\"GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834\" timestamp=\"1605106420880\" />\r\n    <state width=\"1493\" height=\"666\" key=\"GridCell.Tab.0.center\" timestamp=\"1605129959272\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"1493\" height=\"666\" key=\"GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824\" timestamp=\"1605129959272\" />\r\n    <state width=\"1493\" height=\"213\" key=\"GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834\" timestamp=\"1605106420880\" />\r\n    <state width=\"1493\" height=\"666\" key=\"GridCell.Tab.0.left\" timestamp=\"1605129959271\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"1493\" height=\"666\" key=\"GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824\" timestamp=\"1605129959271\" />\r\n    <state width=\"1493\" height=\"213\" key=\"GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834\" timestamp=\"1605106420880\" />\r\n    <state width=\"1493\" height=\"666\" key=\"GridCell.Tab.0.right\" timestamp=\"1605129959272\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state width=\"1493\" height=\"666\" key=\"GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824\" timestamp=\"1605129959272\" />\r\n    <state width=\"1493\" height=\"213\" key=\"GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834\" timestamp=\"1605106420880\" />\r\n    <state x=\"346\" y=\"134\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1605113738695\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"346\" y=\"134\" key=\"Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824\" timestamp=\"1605113738695\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 55b41e59a0220e17e7d0ac05674721ed5fdd7687)
++++ .idea/workspace.xml	(date 1605130299904)
+@@ -2,12 +2,9 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="da5e7cd7-2290-49c6-9254-97e24acccb36" name="Default Changelist" comment="    InputSplit">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/CLI_V1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_V1/Main.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/CLI_V1/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_V1/Parser.class" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/CLI_V1/Terminal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CLI_V1/Terminal.class" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -65,10 +62,25 @@
+       <option name="project" value="LOCAL" />
+       <updated>1605113441769</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Validate Data">
++      <created>1605130272092</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1605130272092</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="Validate Data" />
++    <option name="LAST_COMMIT_MESSAGE" value="Validate Data" />
++  </component>
+   <component name="WindowStateProjectService">
++    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1605130268122">
++      <screen x="0" y="0" width="1536" height="824" />
++    </state>
++    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605130268122" />
+     <state x="132" y="54" key="DiffContextDialog" timestamp="1605113736539">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+@@ -93,9 +105,9 @@
+     </state>
+     <state width="1493" height="666" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605129959272" />
+     <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605106420880" />
+-    <state x="346" y="134" key="Vcs.Push.Dialog.v2" timestamp="1605113738695">
++    <state x="346" y="134" key="Vcs.Push.Dialog.v2" timestamp="1605130286888">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state x="346" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605113738695" />
++    <state x="346" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605130286888" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import java.io.File;\r\nimport java.io.FileWriter;\r\nimport java.io.IOException;\r\nimport java.util.Scanner;\r\n\r\npublic class Main {\r\n\r\n    public static void main(String[] args) throws IOException {\r\n        Terminal t = new Terminal();\r\n        //t.writeFile(Terminal.getWorkDirectory()+\"\\\\src\\\\test2.txt\",t.readFile(Terminal.getWorkDirectory()+\"\\\\src\\\\test.txt\"));\r\n        System.out.println(t.createFile(Terminal.getWorkDirectory()+\"\\\\src\\\\test3.txt\"));\r\n        /*//Scanner sc = new Scanner(System.in);\r\n        //System.out.println(Terminal.getWorkDirectory());\r\n        //String p = sc.nextLine();\r\n        Terminal t = new Terminal();\r\n        String content = t.readFile(\"D:\\\\theird level\\\\operating_system\\\\task\\\\CLI_V1\\\\src\\\\test.txt\");\r\n        System.out.println(content);\r\n        t.writeFile(\"D:\\\\theird level\\\\operating_system\\\\task\\\\CLI_V1\\\\src\\\\test2.txt\",content);\r\n        //System.out.println(Terminal.pathExist(Terminal.getWorkDirectory()));*/\r\n        /*File file = new File(\"D:\\\\theird level\\\\operating_system\\\\task\\\\CLI_V1\\\\src\\\\test2.txt\");\r\n        String fileName = file.getName();\r\n        FileWriter obWriter = new FileWriter(Terminal.getWorkDirectory()+\"\\\\src\\\\test2.txt\");\r\n        obWriter.write(\"data\");\r\n        obWriter.flush();\r\n        obWriter.close();*/\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/Main.java	(revision f53ebd3b47d7720028e4713a0fb6202511885a48)
++++ src/Main.java	(date 1605118390933)
+@@ -6,22 +6,7 @@
+ public class Main {
+ 
+     public static void main(String[] args) throws IOException {
+-        Terminal t = new Terminal();
+-        //t.writeFile(Terminal.getWorkDirectory()+"\\src\\test2.txt",t.readFile(Terminal.getWorkDirectory()+"\\src\\test.txt"));
+-        System.out.println(t.createFile(Terminal.getWorkDirectory()+"\\src\\test3.txt"));
+-        /*//Scanner sc = new Scanner(System.in);
+-        //System.out.println(Terminal.getWorkDirectory());
+-        //String p = sc.nextLine();
+-        Terminal t = new Terminal();
+-        String content = t.readFile("D:\\theird level\\operating_system\\task\\CLI_V1\\src\\test.txt");
+-        System.out.println(content);
+-        t.writeFile("D:\\theird level\\operating_system\\task\\CLI_V1\\src\\test2.txt",content);
+-        //System.out.println(Terminal.pathExist(Terminal.getWorkDirectory()));*/
+-        /*File file = new File("D:\\theird level\\operating_system\\task\\CLI_V1\\src\\test2.txt");
+-        String fileName = file.getName();
+-        FileWriter obWriter = new FileWriter(Terminal.getWorkDirectory()+"\\src\\test2.txt");
+-        obWriter.write("data");
+-        obWriter.flush();
+-        obWriter.close();*/
++        Parser T = new Parser();
++        T.SplitInput();
+     }
+ }
